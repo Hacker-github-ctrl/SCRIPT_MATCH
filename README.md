@@ -1,5 +1,5 @@
 print("olá mundo!")
-esse Script é em Python, ele serve como uma calculadora da matemática básica, adoção, subtração, multiplicação, divisão.
+esse Script é em Python, ele serve como uma calculadora da matemática básica, adição, subtração, multiplicação, divisão.
 
 1. Kali Linux
 2. Debian
